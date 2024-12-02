@@ -1,0 +1,11 @@
+node_modules/
+
+dist/
+
+.firebase/
+firebase.json
+token.js
+.firebaserc
+
+.vite/
+.vite_cache/
